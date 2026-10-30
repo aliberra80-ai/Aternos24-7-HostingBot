@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "aliAFKBot",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "3zothegay.aternos.me",
     "port": 25565,
-    "version": "",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
